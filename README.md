@@ -39,4 +39,4 @@ Sempre tive afinidade com tecnologia e decidi transformar esse interesse em uma 
 
 Aqui publico projetos que fazem parte do meu processo de aprendizado e evolução em programação e segurança.
 
-A ideia é documentar minha jornada técnica ao longo do tempo.
+A ideia é documentar minha jornada técnica ao longo do tempo. Nada muito glamouroso ainda, apenas estudo, curiosidade e código.
